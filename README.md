@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshay Singh Rajput</h1>
 <h3 align="center">A passionate java developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshayrajput01&label=Profile%20views&color=0e75b6&style=flat" alt="lakshayrajput01" /> </p>
+
 - 🌱 I’m currently learning **Spring Boot.**
 
 - 💬 Ask me about **java, Spring Boot ,OOP**
@@ -10,7 +12,6 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1dlaOtoCI2vTslxXfY3TuOL2koL8C0fXCmB0SBJMr2PQ/edit?usp=sharing](https://docs.google.com/document/d/1dlaOtoCI2vTslxXfY3TuOL2koL8C0fXCmB0SBJMr2PQ/edit?usp=sharing)
 
 - ⚡ Fun fact **A multi-tasker who loves to explore new things and like to travel more and more.**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
